@@ -1,0 +1,14 @@
+{
+  "name": "distancedonationadvisor",
+  "version": "1.0.0",
+  "description": "api to sugest donation amounts based on distance",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "jss",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
